@@ -5,7 +5,6 @@
 #include <sys/resource.h>
 #include <sys/time.h>
 #include <strings.h>
-#include <cs50.h>
 
 #include "dictionary.h"
 
